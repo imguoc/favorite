@@ -21,3 +21,8 @@
 
 * [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 * [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
+
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+* [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+
+* [http-server](https://github.com/indexzero/http-server) 一个简单的零配置命令行http服务器
