@@ -2,7 +2,7 @@
 
 * 在线编辑器
     * [CodePen](https://codepen.io/)
-    * [jsfiddle](http://jsfiddle.net/)
+    * [JsFiddle](http://jsfiddle.net/)
 
 * 文档
     * [看云](https://www.kancloud.cn/)
@@ -20,9 +20,10 @@
 * 代码
     * [常用代码收集资源分享](https://github.com/jsfront/src)
 
-* Git仓库
-    * [github](https://github.com/) 公开/私有收费
-    * [gitlab](https://gitlab.com/) 公开私有都免费 
+* Git/仓库
+    * [github](https://github.com/)
+    * [gitlab](https://gitlab.com/)
+    * [码云](https://gitee.com/)
     * [git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
     * [GotGitHub](https://www.kancloud.cn/kancloud/how-to-use-github/42191) GITHUB教程文档
 
