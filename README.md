@@ -1,22 +1,30 @@
 > 收藏夹
 
+* 在线编辑器
+    * [CodePen](https://codepen.io/)
+    * [jsfiddle](http://jsfiddle.net/)
+
 * 文档
     * [看云](https://www.kancloud.cn/)
+    * [印记中文](https://docschina.org/)
+    * [腾讯云-开发者手册](https://cloud.tencent.com/developer/devdocs)
     * [伯乐在线](https://github.com/jobbole)
     * [JS前端开发联盟群](https://github.com/jsfront)
     * [教程-MarkDown](http://www.markdown.cn/)
+    * [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN)
     * [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning/)
     * [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/)
     * [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide/)
+    * [Node.js API 中文文档](http://nodejs.cn/api/)
 
-* 代码/Demo
+* 代码
     * [常用代码收集资源分享](https://github.com/jsfront/src)
 
 * Git仓库
     * [github](https://github.com/) 公开/私有收费
     * [gitlab](https://gitlab.com/) 公开私有都免费 
     * [git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-    * [GotGitHub](https://www.kancloud.cn/kancloud/how-to-use-github/42191) github教程文档
+    * [GotGitHub](https://www.kancloud.cn/kancloud/how-to-use-github/42191) GITHUB教程文档
 
 * HTML/CSS
     * [HTML/CSS开发规范指南](https://github.com/doyoe/html-css-guide#id)
@@ -27,6 +35,7 @@
 * JavaScript
     * [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
     * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+    * [Airbnb JavaScript Style Guide 中文版](https://github.com/sivan/javascript-style-guide)
 
 * 面试
     * [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
@@ -35,6 +44,10 @@
 * VUE
     * [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 
-* 其他工具
-    * [http-server](https://github.com/indexzero/http-server) 一个简单的零配置命令行http服务器
-    * [gulp-sftp](https://github.com/gtg092x/gulp-sftp/) Gulp SFTP Deploy
+* 工具
+    * [eslint](https://cn.eslint.org/)
+    * [http-server](https://github.com/indexzero/http-server) 一个简单的零配置命令行`HTTP`服务器
+    * [gulp-sftp](https://github.com/gtg092x/gulp-sftp/) `Gulp`流`SFTP`部署插件
+
+* 书籍
+    * [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
