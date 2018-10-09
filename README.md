@@ -13,6 +13,7 @@
     * [教程-MarkDown](http://www.markdown.cn/)
     * [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN)
     * [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning/)
+    * [前端开发者指南 2018](https://leviding.gitbooks.io/front-end-handbook-2018/content/)
     * [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/)
     * [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide/)
     * [Node.js API 中文文档](http://nodejs.cn/api/)
