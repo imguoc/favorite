@@ -3,6 +3,7 @@
 * 在线编辑器
     * [CodePen](https://codepen.io/)
     * [JsFiddle](http://jsfiddle.net/)
+    * [JS Bin](https://jsbin.com)
 
 * 文档
     * [看云](https://www.kancloud.cn/)
@@ -17,6 +18,7 @@
     * [前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/)
     * [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide/)
     * [Node.js API 中文文档](http://nodejs.cn/api/)
+    * [前端收集](https://github.com/foru17/front-end-collect)
 
 * 代码
     * [常用代码收集资源分享](https://github.com/jsfront/src)
