@@ -39,3 +39,5 @@ Promise.prototype.catch()
 Promise.prototype.finally()
 
 [Promise - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise#语法)
+
+[我对Promises的理解 - 简书](https://www.jianshu.com/p/b497eab58ed7)
