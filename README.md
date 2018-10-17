@@ -4,7 +4,6 @@
     * [CodePen](https://codepen.io/)
     * [JsFiddle](http://jsfiddle.net/)
     * [JS Bin](https://jsbin.com)
-    * 
 
 * 工具
     * [conemu](https://github.com/Maximus5/ConEmu) 终端工具
