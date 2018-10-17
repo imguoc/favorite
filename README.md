@@ -5,6 +5,9 @@
     * [JsFiddle](http://jsfiddle.net/)
     * [JS Bin](https://jsbin.com)
 
+* 工具
+    * [conemu](https://github.com/Maximus5/ConEmu) 终端工具
+
 * 文档
     * [看云](https://www.kancloud.cn/)
     * [印记中文](https://docschina.org/)
