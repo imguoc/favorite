@@ -27,7 +27,7 @@ gulp 流部署工具
         },
         publicPath: '/dist/' // 要部署的文件目录
     }
-    // 为安全起见，deployConfig 配置可以新建文件，在上传远程库中忽略
+    // 为安全起见，deployConfig 配置可以另新建文件，在上传远程库中忽略
     
     gulp.task('deploy:dev', function (callback) {
         console.log('正在部署开发环境')
