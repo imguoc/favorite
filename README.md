@@ -3,10 +3,7 @@
 * 在线编辑器
     * [CodePen](https://codepen.io/)
     * [JsFiddle](http://jsfiddle.net/)
-    * [JS Bin](https://jsbin.com)
-
-* 工具
-    * [conemu](https://github.com/Maximus5/ConEmu) 终端工具
+    * [JS Bin](https://jsbin.com)    
 
 * 文档
     * [看云](https://www.kancloud.cn/)
@@ -52,6 +49,7 @@
     * [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
 
 * 工具
+    * [conemu](https://github.com/Maximus5/ConEmu) 终端工具
     * [eslint](https://cn.eslint.org/)
     * [http-server](https://github.com/indexzero/http-server) 一个简单的零配置命令行`HTTP`服务器
     * [gulp-sftp](https://github.com/gtg092x/gulp-sftp/) `Gulp`流`SFTP`部署插件
