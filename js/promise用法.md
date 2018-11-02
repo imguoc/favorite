@@ -1,7 +1,7 @@
 promise 解决回调地狱
 
 语法
-```
+```js
 new Promise( function(resolve, reject){
     // ...
     // 一般都是异步请求
@@ -37,6 +37,16 @@ Promise.prototype.then()
 Promise.prototype.catch()
 
 Promise.prototype.finally()
+
+静态方法
+
+Promise.all()
+
+Promise.race()
+
+Promise.reject()
+
+Promise.resolve()
 
 [Promise - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise#语法)
 
