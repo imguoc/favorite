@@ -10,6 +10,7 @@
     * [印记中文](https://docschina.org/)
     * [腾讯云-开发者手册](https://cloud.tencent.com/developer/devdocs)
     * [伯乐在线](https://github.com/jobbole)
+    * [掘金](https://juejin.im/)
     * [JS前端开发联盟群](https://github.com/jsfront)
     * [教程-MarkDown](http://www.markdown.cn/)
     * [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN)
