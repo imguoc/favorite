@@ -50,4 +50,5 @@ new Vue({
 ```
 
 [其他参考 - Vue插件开发入门](https://www.cnblogs.com/libin-1/p/6254390.html)
+
 [其他参考 - vue插件编写与实战](https://www.cnblogs.com/luozhihao/p/7414419.html)

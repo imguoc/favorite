@@ -1,7 +1,5 @@
 使用 router
 
-[vue-router 官方文档](https://router.vuejs.org/zh/)
-
 安装
 
 vue-cli 2.x  `npm install vue-router --save`
@@ -98,4 +96,7 @@ export default [
     }
 ]
 ```
+
+[vue-router 官方文档](https://router.vuejs.org/zh/)
+
 [其他参考：vue中的懒加载和按需加载](https://www.jianshu.com/p/b323dadfeda9)

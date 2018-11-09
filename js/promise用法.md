@@ -26,11 +26,7 @@ new Promise( function(resolve, reject){
 })
 ```
 
-方法
-
-Promise.all()
-
-原型方法
+实例方法
 
 Promise.prototype.then()
 
@@ -38,9 +34,36 @@ Promise.prototype.catch()
 
 Promise.prototype.finally()
 
+```js
+let foo = new Promise((resolve, reject) => {
+    if (条件语句) {
+        return resolve(response)
+    } else {
+        reject(error)
+    }
+})
+
+foo.then(res => {
+    处理成功逻辑
+}).catch(err => {
+    处理异常逻辑
+}).finally(() => {
+    成功异常都会执行
+})
+```
+
 静态方法
 
 Promise.all()
+
+```js
+let foo = new Promise(···)
+let bar = new Promise(···)
+
+Promise.all([foo, bar]).then(result => {
+    当 foo 和 bar 都返回成功时调用。result为数组，[foo的resolve, bar的resolve]
+})
+```
 
 Promise.race()
 

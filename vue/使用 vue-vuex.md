@@ -1,7 +1,5 @@
 使用 vuex
 
-[vue-vuex 官方文档](https://vuex.vuejs.org/zh/)
-
 安装
 
 vue-cli 2.x  `npm install vue-vuex --save`
@@ -21,7 +19,7 @@ vue-cli 3.x  `vue add vuex`
 ```
 
 /main.js
-```js
+```v
 import App from './App.vue'
 import store from './store'
 
@@ -34,7 +32,7 @@ new Vue({
 ```
 
 /store/index.js
-```js
+```v
 import Vue from 'vue'
 import Vuex from 'vuex'
 
@@ -103,7 +101,7 @@ export default {
 ```
 
 组件使用 state：`state` 是全局共享的变量
-```js
+```v
 <template>
     <div> 
         {{ count }} 
@@ -127,7 +125,7 @@ export default {
 ```
 
 组件使用 getters：`getters` 相当于 `state` 的计算属相
-```js
+```v
 <template>
     <div> 
         {{ sumCount }} 
@@ -151,7 +149,7 @@ export default {
 ```
 
 组件使用 mutations：`mutations` 是同步改变 `state` 的方法
-```js
+```v
 <template>
     <div> 
         {{ count }}
@@ -187,7 +185,7 @@ export default {
 ```
 
 组件使用 actions：`actions` 是异步改变 `state` 的方法
-```js
+```v
 <template>
     <div> 
         {{ count }}
@@ -221,5 +219,7 @@ export default {
 }
 </script>
 ```
+
+[vue-vuex 官方文档](https://vuex.vuejs.org/zh/)
 
 [其他参考 - 最详细的Vuex教程](https://blog.csdn.net/h5_queenstyle12/article/details/75386359)
