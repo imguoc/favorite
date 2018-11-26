@@ -1,4 +1,5 @@
-<iframe width="100%" height="500" src="//jsfiddle.net/IMGUOC/8vnwtcuL/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe height='455' scrolling='no' title='vue用echarts画温度计' src='//codepen.io/imguoc/embed/Oavawb/?height=455&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/imguoc/pen/Oavawb/'>vue用echarts画温度计</a> by IMGUOC (<a href='https://codepen.io/imguoc'>@imguoc</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 
 <a href="https://codepen.io/imguoc/pen/Oavawb?editors=0011" target="_blank">DEMO</a>
